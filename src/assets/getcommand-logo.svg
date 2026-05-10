@@ -1,0 +1,9 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">GetCommand logo</title>
+  <desc id="desc">A dark rounded square with a minimal terminal prompt symbol.</desc>
+  <rect x="1" y="1" width="30" height="30" rx="8" fill="#0A0A0C"/>
+  <rect x="1" y="1" width="30" height="30" rx="8" stroke="white" stroke-opacity="0.14"/>
+  <path d="M10.25 11.75L14.5 16L10.25 20.25" stroke="#FCFDFF" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M16.75 20.25H22.25" stroke="#FCFDFF" stroke-width="1.7" stroke-linecap="round"/>
+  <path d="M7.75 7.75H24.25V24.25H7.75V7.75Z" stroke="#FCFDFF" stroke-opacity="0.22" stroke-width="1"/>
+</svg>
